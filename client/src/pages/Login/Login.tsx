@@ -21,7 +21,7 @@ function Login() {
       <div className="Login"></div>
       <div className="Login__panel">
         <div className="Login__panel__content">
-          <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff846d4e-6828-4ef9-9b1f-7f01b3fcf7e6/df16qq2-c7a927af-c16e-43c0-ac82-b8f3c21c4c5b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmODQ2ZDRlLTY4MjgtNGVmOS05YjFmLTdmMDFiM2ZjZjdlNlwvZGYxNnFxMi1jN2E5MjdhZi1jMTZlLTQzYzAtYWM4Mi1iOGYzYzIxYzRjNWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PkzuPdkmzgoMjXiDBf2xA0m2fJ-qCUDiF08LMo0bZ0Q"></img>
+          <img id = "mysterymachine" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ff846d4e-6828-4ef9-9b1f-7f01b3fcf7e6/df16qq2-c7a927af-c16e-43c0-ac82-b8f3c21c4c5b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2ZmODQ2ZDRlLTY4MjgtNGVmOS05YjFmLTdmMDFiM2ZjZjdlNlwvZGYxNnFxMi1jN2E5MjdhZi1jMTZlLTQzYzAtYWM4Mi1iOGYzYzIxYzRjNWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PkzuPdkmzgoMjXiDBf2xA0m2fJ-qCUDiF08LMo0bZ0Q"></img>
           <div className="Login__panel__content__message">
             <div>Welcome to the Scooby Doo Team!</div>
             <div>
