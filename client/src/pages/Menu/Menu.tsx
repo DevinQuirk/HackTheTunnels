@@ -5,7 +5,7 @@ import { Link } from "react-router-dom";
 
 function Menu() {
   return (
-    <Layout title={"Main"}>
+    <Layout title={"Raggy’s Roamin’ Options"}>
       <br />
       <CabinetSection
         title="Personal Information"

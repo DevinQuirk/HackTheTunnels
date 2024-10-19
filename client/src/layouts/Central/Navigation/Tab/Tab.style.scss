@@ -1,26 +1,28 @@
 .Tab {
   display: flex;
   font-weight: bold;
-  font-size: 0.75rem;
+  font-size: 1.0rem;
   height: 1.3rem;
   border-radius: 0.5rem;
 
   &__label {
-    background-color: #666666;
+    background-color: #8c6444;
     padding-right: 0.1rem;
     padding-left: 0.1rem;
     border-top-left-radius: 0.2rem;
     border-top-right-radius: 0.2rem;
     color: white;
+    font-weight: normal;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   }
 
   &__left {
     border-top: 1.3rem solid transparent;
-    border-right: 0.4rem solid #666666;
+    border-right: 0.4rem solid #8c6444;
   }
 
   &__right {
     border-top: 1.3rem solid transparent;
-    border-left: 0.4rem solid #666666;
+    border-left: 0.4rem solid #8c6444;
   }
 }

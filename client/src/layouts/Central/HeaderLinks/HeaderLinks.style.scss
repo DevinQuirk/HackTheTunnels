@@ -10,12 +10,13 @@
   a {
     text-decoration: none;
     text-transform: uppercase;
-    color: black;
+    color: #7cac34;
+    font-family: American Typewriter, serif;
   }
 
   a:hover {
     text-decoration: underline;
-    color: $theme--dark;
+    color: #4b0055;
   }
 
   a:active {
